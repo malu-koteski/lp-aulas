@@ -1,4 +1,4 @@
-# C Programming Logic Exercises
+# C Programming Logic Exercises - 2025
 
 A collection of C programs I wrote during my **Programming Logic** class in my Computer Engineering Degree in UNIFESP. I'm sharing them to help other beginners see how basic concepts look in real code.
 
